@@ -1,0 +1,5256 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600");
+@import url("https://api.fontshare.com/css?f[]=barlow@400,500,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Font Awesome 5 Free:wght@400;900");
+@import url("https://api.fontshare.com/css?f[]=font awesome 5 free@400,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Font Awesome 5 Brands:wght@400");
+@import url("https://api.fontshare.com/css?f[]=font awesome 5 brands@400&display=swap");
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt {
+  width: 100%;
+  display: inline-flex;
+  max-width: 1366px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-section {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 104%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/slide4.jpg);
+  margin-left: 2px;
+  align-items: center;
+  font-family: Barlow;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-background-overlay {
+  display: flex;
+  padding-bottom: 192px;
+  opacity: 0.77;
+  flex-grow: 1;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 28px;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 392px;
+  background-size: 14% 52%;
+  background-image: url(/assets/div-elementor-background-overlay.png);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-section {
+  display: flex;
+  justify-content: center;
+  padding-left: 2px;
+  align-self: stretch;
+  margin-right: 3px;
+  align-items: center;
+  font-size: 14px;
+  line-height: 27px;
+  font-weight: 600;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-section-0 {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 36px;
+  padding-right:0px;
+  padding-left:0px;
+  padding-bottom: 36px;
+  align-self: stretch;
+  flex-grow: 1;
+  column-gap: 384px;
+  background-color: rgba(0, 0, 0, 0.56);
+  row-gap: 14px;
+  align-items: center;
+  border-bottom-width: 1px;
+  border-color: rgba(229, 229, 229, 0.13);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-logo-wide-white-png-tdiv-elementor-widget-container {
+  display: flex;
+  justify-content: center;
+  height: 44px;
+  width: 224px;
+  column-gap: 32px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-logo-wide-white-png {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  width: 144px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-logo-wide-white-png {
+  flex-grow: 1;
+  align-self: stretch;
+  max-height: 100%;
+  max-width: 140px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-elementor-widget-container {
+  display: flex;
+  justify-content: center;
+  height: 42px;
+  width: 142px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-widget-container {
+  display: flex;
+  justify-content: flex-end;
+  object-fit: cover;
+  height:42px;
+  width: 142px;
+  align-self: stretch;
+  align-items: center;
+  border-left-width: 1px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-tm-widget-search-form {
+  height: 42px;
+  width: 142px;
+  margin-bottom: 1.5px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-link-home-link-pages-link-services-link-portfolio-link-blog-link-shop {
+  display: flex;
+  justify-content: center;
+  column-gap: 56px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-home {
+  display: flex;
+  align-items: center;
+  max-width: 93px;
+  color: rgba(245, 158, 11, 1);
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-home:hover{
+  color: #e9a240;
+}.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-pages:hover{
+  color: #e9a233;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-services:hover{
+  color: #e9a233;
+}.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-portfolio:hover{
+  color: #e9a233;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-blog:hover{
+  color: #e9a233;
+}.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-shop:hover{
+  color: #e9a233;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-pages {
+  display: flex;
+  align-items: center;
+  max-width: 99px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-1 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-services {
+  display: flex;
+  align-items: center;
+  max-width: 119px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-3 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-portfolio {
+  display: flex;
+  align-items: center;
+  max-width: 128px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-5 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-blog {
+  display: flex;
+  align-items: center;
+  max-width: 91px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-7 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-shop {
+  display: flex;
+  align-items: center;
+  max-width: 91px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-9 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-digital-agency-for-your-business {
+  display: flex;
+  justify-content: center;
+  padding-top: 144px;
+  padding-right: 208px;
+  padding-left: 208px;
+  align-self: stretch;
+  margin-right: 3px;
+  align-items: flex-end;
+  font-size: 100px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 90px;
+  font-weight: 600;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-digital-agency-for-your-business {
+  display: flex;
+  justify-content: center;
+  padding-right: 2px;
+  width: 940px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-digital-agency-for-your-business {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 938px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-11 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-you-have-better-things-to-do-than-worry-about-your-business {
+  display: flex;
+  justify-content: center;
+  padding-right: 2px;
+  align-self: stretch;
+  margin-right: 3px;
+  align-items: center;
+  font-size: 19px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 36px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-you-have-better-things-to-do-than-worry-about-your-business {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 812px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-14 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ttt-link-link {
+  display: flex;
+  justify-content: center;
+  padding-top: 6px;
+  padding-right: 384px;
+  padding-left: 384px;
+  align-self: stretch;
+  margin-right: 3px;
+  align-items: flex-end;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  letter-spacing: 1.6px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-link-link {
+  align-self: stretch;
+  padding-left: 20px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 2px;
+  row-gap: 2px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-get-aqoute {
+  align-self: stretch;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 48px;
+  padding-left: 48px;
+  background-color: rgba(245, 158, 11,1);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: rgba(255, 255, 255, 1);
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-get-aqoute:hover{
+  background-color: #212529;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-16 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-explore-now {
+  align-self: stretch;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 48px;
+  padding-left: 48px;
+  background-color: rgba(255, 247, 237, 1);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: rgba(23, 23, 23, 1);
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-explore-now:hover{
+  background-color:#212529;
+  color: #fff;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-18 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-section-1 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  flex-direction: column;
+  background-color: black;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/bg-pattern1.png);
+  margin-left: 2px;
+  align-items: center;
+  font-family: Barlow;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-background-overlay-0 {
+  display: flex;
+  justify-content: center;
+  padding-top: 112px;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-bottom: 128px;
+  flex-grow: 1;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 56px;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(/assets/div-elementor-background-overlay-0.png);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-our-services-services-we-offer-tthere-are-many-variations-of-passages-of-available-but-majority-alteration-in-some-form-by-humou-or-randomised-words {
+  width: 1200px;
+  padding-right: 36px;
+  padding-left: -15px;
+  align-items: flex-end;
+  justify-content: center;
+  column-gap: 176px;
+  row-gap: 32px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-our-services-services-we-offer {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 12px;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-our-services {
+  display: flex;
+  align-items: center;
+  max-width: 585px;
+  font-size: 18px;
+  color: rgba(245, 158, 11, 1);
+  line-height: 24px;
+  font-weight: 500;
+  letter-spacing: 1.6px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-20 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-services-we-offer {
+  display: flex;
+  align-items: center;
+  max-width: 585px;
+  align-self: stretch;
+  font-size: 48px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 48px;
+  font-weight: 600;
+  letter-spacing: 0.1px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-22 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-there-are-many-variations-of-passages-of-available-but-majority-alteration-in-some-form-by-humou-or-randomised-words {
+  display: flex;
+  padding-bottom: 3px;
+  width: 566px;
+  flex-direction: column;
+  align-items: center;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 30px;
+  font-weight: 500;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-there-are-many-variations-of-passages-of-available-but-majority-alteration-in-some-form-by-humou-or-randomised-words {
+  display: flex;
+  align-items: center;
+  max-width: 585px;
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-inner-box-div-inner-box-div-inner-box-div-inner-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 32px;
+  row-gap: 32px;
+  align-items: center;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 0px;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box:hover{
+  background-color: #e9a233;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-self: stretch;
+  width: 288px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-background-0 {
+  inset: 0px;
+  position: absolute;
+  background-image: rgba(23, 23, 23, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-background-1 {
+  inset: 0px;
+  position: absolute;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 43% 39%;
+  background-image: url(/assets/background-6.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  padding-top: 36px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 36px;
+  flex-grow: 1;
+  align-self: stretch;
+  flex-direction: column;
+  background-image: linear-gradient(
+    138deg,
+    rgba(23, 23, 23, 0),
+    rgba(23, 23, 23, 0.65) 65%,
+    rgba(233, 162, 51, 1)
+  );
+  align-items: flex-end;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-website-development {
+  align-self: stretch;
+  padding-right: 64px;
+  align-items: center;
+  display: flex;
+  line-height: 24px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-27 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-span-count {
+  height: 28px;
+  width: 28px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-0 {
+  height: 3px;
+  align-self: stretch;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-icon {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  height: 96px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon {
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-sed-non-odio-non-elit-sem-gravida-orci-dui-eleifnd {
+  align-self: stretch;
+  padding-top: 16px;
+  padding-right: 20px;
+  align-items: center;
+  display: flex;
+  line-height: 26px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-sed-non-odio-non-elit-sem-gravida-orci-dui-eleifnd {
+  display: flex;
+  align-items: center;
+  max-width: 198px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box-0 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-self: stretch;
+  width: 288px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-background {
+  inset: 0px;
+  position: absolute;
+  background-image: rgba(23, 23, 23, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-background-2 {
+  inset: 0px;
+  position: absolute;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 43% 39%;
+  background-image: url(/assets/background-6.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-1 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  padding-top: 36px;
+  padding-right: 36px;
+  padding-left: 36px;
+  padding-bottom: 36px;
+  flex-grow: 1;
+  align-self: stretch;
+  flex-direction: column;
+  background-image: linear-gradient(
+    138deg,
+    rgba(23, 23, 23, 0),
+    rgba(23, 23, 23, 0.65) 65%,
+    rgba(233, 162, 51, 1)
+  );
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-graphic-design {
+  align-self: stretch;
+  padding-right: 112px;
+  align-items: center;
+  display: flex;
+  line-height: 24px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-33 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-span-count {
+  display: flex;
+  justify-content: flex-end;
+  height: 28px;
+  align-self: stretch;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-span-count-0 {
+  height: 28px;
+  width: 28px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-2 {
+  height: 3px;
+  align-self: stretch;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-icon-0 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  height: 96px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-0 {
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-sed-non-odio-non-elit-sem-gravida-orci-dui-eleifnd-0 {
+  align-self: stretch;
+  padding-top: 16px;
+  padding-right: 20px;
+  align-items: center;
+  display: flex;
+  line-height: 26px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-sed-non-odio-non-elit-sem-gravida-orci-dui-eleifnd-0 {
+  display: flex;
+  align-items: center;
+  max-width: 198px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box-1 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-self: stretch;
+  width: 288px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-background-3 {
+  inset: 0px;
+  position: absolute;
+  background-image: rgba(23, 23, 23, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-background-4 {
+  inset: 0px;
+  position: absolute;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 43% 39%;
+  background-image: url(/assets/background-6.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-3 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  padding-top: 36px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 36px;
+  flex-grow: 1;
+  align-self: stretch;
+  flex-direction: column;
+  background-image: linear-gradient(
+    138deg,
+    rgba(23, 23, 23, 0),
+    rgba(23, 23, 23, 0.65) 65%,
+    rgba(233, 162, 51, 1)
+  );
+  align-items: flex-end;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-digital-marketing {
+  align-self: stretch;
+  padding-right: 96px;
+  align-items: center;
+  display: flex;
+  line-height: 24px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-39 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-span-count-1 {
+  height: 28px;
+  width: 28px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-4 {
+  height: 3px;
+  align-self: stretch;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-icon-1 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  height: 96px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-1 {
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-sed-non-odio-non-elit-sem-gravida-orci-dui-eleifnd-1 {
+  align-self: stretch;
+  padding-top: 16px;
+  padding-right: 20px;
+  align-items: center;
+  display: flex;
+  line-height: 26px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-sed-non-odio-non-elit-sem-gravida-orci-dui-eleifnd-1 {
+  display: flex;
+  align-items: center;
+  max-width: 198px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box-2 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-self: stretch;
+  width: 288px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-background-5 {
+  inset: 0px;
+  position: absolute;
+  background-image: rgba(23, 23, 23, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-background-6 {
+  inset: 0px;
+  position: absolute;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 43% 39%;
+  background-image: url(/assets/background-6.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-5 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  padding-top: 36px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 36px;
+  flex-grow: 1;
+  align-self: stretch;
+  flex-direction: column;
+  background-image: linear-gradient(
+    138deg,
+    rgba(23, 23, 23, 0),
+    rgba(23, 23, 23, 0.65) 65%,
+    rgba(233, 162, 51, 1)
+  );
+  align-items: flex-end;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-apps-development {
+  align-self: stretch;
+  padding-right: 64px;
+  align-items: center;
+  display: flex;
+  line-height: 24px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-45 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-span-count-2 {
+  height: 28px;
+  width: 28px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-6 {
+  height: 3px;
+  align-self: stretch;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-icon-2 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  height: 96px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-2 {
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-sed-non-odio-non-elit-sem-gravida-orci-dui-eleifnd-2 {
+  align-self: stretch;
+  padding-top: 16px;
+  padding-right: 20px;
+  align-items: center;
+  display: flex;
+  line-height: 26px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-sed-non-odio-non-elit-sem-gravida-orci-dui-eleifnd-2 {
+  display: flex;
+  align-items: center;
+  max-width: 198px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-div-tm-sc-icon-box-ttproject-bg-6jpg-tttget-to-know-us-after-tleading-the-best-digital-tagency-in-town-tthe-professional-approach-to-development-web-designing-in-apowerful-way-of-just-not-an-only-professions-however-in-apassion-for-our-company-we-have-to-atendency-to-believe-the-idea-that-smart-looking-of-any-website-is-the-first-impression-ttbg-website-designing-77div-progress-holder-ttttttsymbol-maecenas-id-amet-libero-rutrum-ttsymbol-nolam-vel-suffered-sit-form-ttsymbol-proin-mattis-noted-purus-tlink-div-elementor-widget-wrap {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 128px;
+  padding-right: 32px;
+  padding-left: 32px;
+  align-self: stretch;
+  flex-direction: column;
+  margin-left: 2px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-tm-sc-icon-box-ttproject-bg-6jpg-tttget-to-know-us-after-tleading-the-best-digital-tagency-in-town-tthe-professional-approach-to-development-web-designing-in-apowerful-way-of-just-not-an-only-professions-however-in-apassion-for-our-company-we-have-to-atendency-to-believe-the-idea-that-smart-looking-of-any-website-is-the-first-impression-ttbg-website-designing-77div-progress-holder-ttttttsymbol-maecenas-id-amet-libero-rutrum-ttsymbol-nolam-vel-suffered-sit-form-ttsymbol-proin-mattis-noted-purus-tlink-div-elementor-widget-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-left: 28px;
+  flex-grow: 1;
+  align-self: stretch;
+  column-gap: 64px;
+  row-gap: 40px;
+  align-items: flex-end;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-tm-sc-icon-box {
+  display: flex;
+  filter: drop-shadow(-10px 0px 15px rgba(233, 162, 51, 0.15));
+  justify-content: center;
+  height: 80px;
+  width: 80px;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-wrapper {
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-project-bg-6jpg {
+  width: 384px;
+  align-self: stretch;
+  padding-bottom: 128px;
+  padding-left: 12px;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  z-index: 2;
+  padding-right: 20%;
+
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-project-bg-6jpg {
+  position: absolute;
+  z-index: 3;
+  display: flex;
+  height: 540px;
+  width: 384px;
+  margin-bottom:10%;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 450px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 104%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/project-bg6.jpg);
+  align-items: flex-end;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-tm-sc-icon-box-0 {
+  display: flex;
+  filter: drop-shadow(-10px 0px 15px rgba(23, 23, 23, 0.15));
+  justify-content: center;
+  padding-top: 24px;
+  padding-right: 24px;
+  padding-left: 24px;
+  padding-bottom: 24px;
+  height: 80px;
+  width: 80px;
+  background-color: rgba(23, 23, 23, 1);
+  margin-top: -15px;
+  margin-right: 384px;
+  align-items: center;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-tm-sc-icon-box:hover {
+  i{
+  rotate:11
+  5deg;
+  }
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-bulb-png {
+  height: 32px;
+  width: 32px;
+  max-height: 100%;
+  max-width: 75px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(/assets/bulb-png.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-get-to-know-us-after-tleading-the-best-digital-tagency-in-town-tthe-professional-approach-to-development-web-designing-in-apowerful-way-of-just-not-an-only-professions-however-in-apassion-for-our-company-we-have-to-atendency-to-believe-the-idea-that-smart-looking-of-any-website-is-the-first-impression-ttbg-website-designing-77div-progress-holder-ttttttsymbol-maecenas-id-amet-libero-rutrum-ttsymbol-nolam-vel-suffered-sit-form-ttsymbol-proin-mattis-noted-purus-tlink-div-elementor-widget-wrap {
+  width: 591px;
+  align-self: stretch;
+  padding-bottom: 16px;
+  align-items: flex-start;
+  justify-content: center;
+  row-gap: 10px;
+  flex-direction: column;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-get-to-know-us-after {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  column-gap: 16px;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 18px;
+  color: rgba(245, 158, 11, 1);
+  line-height: 24px;
+  font-weight: 500;
+  letter-spacing: 1.6px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-get-to-know-us {
+  display: flex;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-51 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-after {
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+  height: 2px;
+  width: 56px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(233, 162, 51, 1),
+    rgba(238, 185, 102, 1)
+  );
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-leading-the-best-digital {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 8px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 48px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 48px;
+  font-weight: 600;
+  letter-spacing: 0.1px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-leading-the-best-digital {
+  display: flex;
+  align-items: center;
+  max-width: 591px;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-53 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-agency-in-town {
+  display: flex;
+  padding-top: 4px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 48px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 48px;
+  font-weight: 600;
+  letter-spacing: 0.1px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-agency-in-town {
+  display: flex;
+  align-items: center;
+  max-width: 533px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-55 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-the-professional-approach-to-development {
+  display: flex;
+  padding-top: 28px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 26px;
+  color: rgba(245, 158, 11, 1);
+  line-height: 32px;
+  font-weight: 600;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-the-professional-approach-to-development {
+  display: flex;
+  align-items: center;
+  max-width: 533px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-web-designing-in-apowerful-way-of-just-not-an-only-professions-however-in-apassion-for-our-company-we-have-to-atendency-to-believe-the-idea-that-smart-looking-of-any-website-is-the-first-impression {
+  display: flex;
+  align-items: center;
+  max-width: 533px;
+  width: 522px;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 30px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-bg-website-designing-77 {
+  display: flex;
+  padding-top: 32px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-family: Barlow;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-bg-website-designing-77 {
+  display: flex;
+  position: relative;
+  justify-content: flex-end;
+  padding-right: 176px;
+  height: 24px;
+  width: 192px;
+  align-items: flex-end;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-bg-website-designing {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  align-items: center;
+  max-width: 533px;
+  font-size: 20px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-63 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-component {
+  display: flex;
+  position: relative;
+  align-items: center;
+  max-width: 29px;
+  flex-grow: 1;
+  margin-top: 0.61px;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-progress-holder {
+  height: 12px;
+  width: 533px;
+  background-color: rgba(244, 244, 245, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ttttt-symbol-maecenas-id-amet-libero-rutrum-ttsymbol-nolam-vel-suffered-sit-form-ttsymbol-proin-mattis-noted-purus-tlink-div-elementor-widget-wrap {
+  align-self: stretch;
+  padding-top: 32px;
+  padding-right: 56px;
+  align-items: flex-start;
+  justify-content: center;
+  column-gap: 14px;
+  row-gap: 14px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ttt-symbol-maecenas-id-amet-libero-rutrum-ttsymbol-nolam-vel-suffered-sit-form-ttsymbol-proin-mattis-noted-purus-tlink {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  row-gap: 10px;
+  flex-direction: column;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-maecenas-id-amet-libero-rutrum {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 14px;
+  align-items: center;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol {
+  height: 14px;
+  width: 16px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  line-height: 14px;
+  font-weight: 900;
+  font-size: 14px;
+  font-family: Font Awesome 5 Free;
+  color: rgba(245, 158, 11, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-maecenas-id-amet-libero-rutrum {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-nolam-vel-suffered-sit-form {
+  display: flex;
+  align-self: stretch;
+  column-gap: 14px;
+  align-items: center;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-0 {
+  height: 14px;
+  width: 16px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  line-height: 14px;
+  font-weight: 900;
+  font-size: 14px;
+  font-family: Font Awesome 5 Free;
+  color: rgba(245, 158, 11, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-nolam-vel-suffered-sit-form {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-proin-mattis-noted-purus {
+  display: flex;
+  align-self: stretch;
+  column-gap: 14px;
+  align-items: center;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-1 {
+  height: 14px;
+  width: 16px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  line-height: 14px;
+  font-weight: 900;
+  font-size: 14px;
+  font-family: Font Awesome 5 Free;
+  color: rgba(245, 158, 11, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-proin-mattis-noted-purus {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-explore-now-0 {
+  align-self: stretch;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-top: 20px;
+  margin-right: 36px;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  line-height: 20px;
+  letter-spacing: 1.6px;
+  font-weight: 600;
+  font-size: 14px;
+  font-family: Barlow;
+  color: rgba(255, 255, 255, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-79 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-widget-wrap {
+  display: flex;
+  filter: drop-shadow(15px 30px 20px rgba(0, 0, 0, 0.07));
+  justify-content: center;
+  align-self: stretch;
+  width: 288px;
+  background-color: rgba(255, 255, 255, 0);
+  align-items: center;
+  font-family: Barlow;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-paints {
+  display: flex;
+  filter: drop-shadow(0px 33px 34px rgba(0, 0, 0, 0.07));
+  justify-content: center;
+  padding-top: 40px;
+  padding-right: 48px;
+  padding-left: 48px;
+  padding-bottom: 40px;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: column;
+  row-gap: 14px;
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0);
+  margin-top: 0.08px;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-counter-icon-t30 {
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  width: 176px;
+  column-gap: 32px;
+  align-items: center;
+  font-size: 48px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 58px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-counter-icon {
+  align-self: stretch;
+  width: 64px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-component-0 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-years-of-experience {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  max-width: 173px;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-83 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-before {
+  display: flex;
+  padding-right: 0px;
+  height: 160px;
+  width: 0px;
+  z-index: 1;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-7 {
+  align-self: stretch;
+  width: 240px;
+  margin-left: -254.78px;
+  border-width: 2px;
+  border-color: rgba(245, 158, 11, 1);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-elementor-widget-wrap-tdiv-elementor-background-overlay-tdiv-elementor-background-overlay {
+  height: 1637px;
+  align-self: stretch;
+  padding-top: 96px;
+  margin-left: 2px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-widget-wrap-0 {
+  display: flex;
+  justify-content: center;
+  padding-top: 16px;
+  padding-right: 14px;
+  padding-left: 14px;
+  padding-bottom: 16px;
+  height: 632px;
+  width: 1230px;
+  flex-direction: column;
+  align-items: center;
+  border-right-width: 2px;
+  border-left-width: 2px;
+  border-top-width: 2px;
+  border-color: rgba(245, 158, 11, 1);
+  border-style: solid;
+  text-align: center;
+  font-family: Font Awesome 5 Free;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 30px;
+  font-weight: 900;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-thumb {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  z-index: 5;
+  object-fit: cover;
+  align-self: stretch;
+  background-repeat: repeat;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/video-bg1.jpg);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-8 {
+  flex-grow: 1;
+  z-index: 2;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-bg-block {
+  display: flex;
+  padding-right: 0px;
+  width: 0px;
+  z-index: 1;
+  align-items: center;
+  
+}
+
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-bg-block {
+  display: flex;
+  border-top-right-radius: 100px;
+  border-top-left-radius: 100px;
+  justify-content: center;
+  padding-top: 36px;
+  padding-right: 36px;
+  padding-left: 36px;
+  padding-bottom: 36px;
+  height: 96px;
+  width: 96px;
+  background-color: rgba(245, 158, 11, 1);
+  margin-left: -648px;
+  align-items: center;
+  border-bottom-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  
+}
+
+
+
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 27px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-elementor-background-overlay {
+  display: flex;
+  height: 503px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-family: Barlow;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-background-overlay-1 {
+  display: flex;
+  padding-top: 144px;
+  padding-right: 80px;
+  padding-left: 64px;
+  padding-bottom: 224px;
+  opacity: 0.72;
+  height: 503px;
+  align-self: stretch;
+  flex-direction: column;
+  background-color: rgba(245, 158, 11, 1);
+  margin-top: -135px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-inner-box-div-inner-box-div-inner-box {
+  align-self: stretch;
+  padding-left: 16px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 32px;
+  row-gap: 32px;
+  flex-wrap: wrap;
+  display: flex;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box-3 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 36px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 10px;
+  align-self: stretch;
+  width: 384px;
+  flex-direction: column;
+  background-color:black;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-professional-staff-div-icon-margin {
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  align-self: stretch;
+  column-gap: 96px;
+  align-items: flex-start;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-professional-staff {
+  width: 144px;
+  align-items: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-87 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-margin {
+  align-self: stretch;
+  width: 64px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-2 {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-right: 2px;
+  align-self: stretch;
+  align-items: flex-end;
+  border-top-width: 3px;
+  border-color: rgba(255, 255, 255, 0.1);
+  border-style: solid;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0.8px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-read-more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 240px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-90 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box-4 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 36px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 10px;
+  align-self: stretch;
+  width: 384px;
+  flex-direction: column;
+  background-color:black;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-we-satisfy-you-100div-icon-margin {
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  align-self: stretch;
+  column-gap: 128px;
+  align-items: flex-start;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-we-satisfy-you-100 {
+  width: 112px;
+  align-items: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-92 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-margin-0 {
+  align-self: stretch;
+  width: 64px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-3 {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-right: 2px;
+  align-self: stretch;
+  align-items: flex-end;
+  border-top-width: 3px;
+  border-color: rgba(255, 255, 255, 0.1);
+  border-style: solid;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0.8px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-read-more-0 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 240px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-95 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box-5 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 36px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 10px;
+  align-self: stretch;
+  width: 384px;
+  flex-direction: column;
+  background-color:black;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box-5:hover i{
+color: #e9a233;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box-4:hover i{
+  color: #e9a233;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-inner-box-3:hover i{
+    color: #e9a233;
+    }
+    .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-professional-staff:hover span{
+      color: #e9a233;
+    }
+    .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-we-satisfy-you-100:hover span{
+      color: #e9a233;
+    }
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-high-quality-designing:hover span{
+  color: #e9a233;
+  }
+
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-find-your-solution:hover{
+    
+    background-color: black;
+    span{color: white;}
+  }
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-high-quality-designing-div-icon-margin {
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  align-self: stretch;
+  column-gap: 112px;
+  align-items: flex-start;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-high-quality-designing {
+  width: 128px;
+  align-items: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-97 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-margin-1 {
+  align-self: stretch;
+  width: 64px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-4 {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-right: 2px;
+  align-self: stretch;
+  align-items: flex-end;
+  border-top-width: 3px;
+  border-color: rgba(255, 255, 255, 0.1);
+  border-style: solid;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0.8px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-read-more-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 240px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-100 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-it-technology-services-built-specifically-for-your-business {
+  display: flex;
+  justify-content: center;
+  padding-top: 24px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 34px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-it-technology-services-built-specifically-for-your-business {
+  padding-right: 10px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-find-your-solution {
+  padding-bottom: 8px;
+  padding-top: 8px;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-color: rgba(255, 247, 237, 1);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  line-height: 20px;
+  letter-spacing: 1.6px;
+  font-weight: 600;
+  font-size: 14px;
+  color: rgba(23, 23, 23, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-104 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-elementor-background-overlay-0 {
+  display: flex;
+  height: 384px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  font-family: Barlow;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-background-overlay-2 {
+  display: flex;
+  padding-top: 150px;
+  padding-right: 80px;
+  padding-left: 80px;
+  height: 534px;
+  align-self: stretch;
+  flex-direction: column;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px -273px;
+  background-size: 100% 280%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/project-bg4.jpg);
+  margin-top: -135.26px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-div-image-this-is-due-to-their-excellent-service-competitive-pricing-and-customer-support-it-sthroughly-refresing-to-get-such-apersonal-touch {
+  height: 144px;
+  padding-top: 50px;
+  align-self: stretch;
+  padding-left: 32px;
+  align-items: flex-end;
+  justify-content: center;
+  column-gap: 64px;
+  display: flex;
+  line-height: 50px;
+  font-weight: 500;
+  font-size: 40px;
+  color: black;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-image {
+  display: flex;
+  justify-content: center;
+  height: 144px;
+  width: 144px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-image {
+  display: flex;
+  border-top-right-radius: 69px;
+  border-top-left-radius: 69px;
+  justify-content: center;
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-left: 6px;
+  padding-bottom: 6px;
+  height: 144px;
+  width: 144px;
+  flex-direction: column;
+  align-items: center;
+  border-bottom-right-radius: 69px;
+  border-bottom-left-radius: 69px;
+  border-width: 2px;
+  border-color: rgba(245, 158, 11, 1);
+  border-style: solid;
+background-color: #fff;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-test-1150x-150jpg {
+  border-top-right-radius: 62px;
+  border-top-left-radius: 62px;
+  height: 128px;
+  width: 128px;
+  max-height: 100%;
+  max-width: 138px;
+  background-position: -4.28px -4.28px;
+  background-size: 107% 107%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/test1-150x150.jpg);
+  border-bottom-right-radius: 62px;
+  border-bottom-left-radius: 62px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-this-is-due-to-their-excellent-service-competitive-pricing-and-customer-support-it-sthroughly-refresing-to-get-such-apersonal-touch {
+  display: flex;
+  align-items: center;
+  max-width: 970px;
+  align-self: stretch;
+  width: 970px;
+  color: #fff;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-swiper-container {
+  display: flex;
+  padding-top: 10px;
+  height: 64px;
+  align-self: stretch;
+  align-items: flex-end;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-wrapper {
+  display: flex;
+  align-self: stretch;
+  width: 208px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-swiper-container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  column-gap: 10px;
+  align-items: center;
+  overflow: clip;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-test-1150x-150jpg-0 {
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  opacity: 0.7;
+  height: 64px;
+  width: 64px;
+  max-height: 100%;
+  max-width: 60px;
+  background-repeat: no-repeat;
+  background-position: -4.62px -4.62px;
+  background-size: 115% 115%;
+  background-image: url(/assets/test-1150x-150jpg-0.png);
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-test-5150x-150jpg {
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  height: 64px;
+  width: 64px;
+  max-height: 100%;
+  max-width: 60px;
+  background-repeat: no-repeat;
+  background-position: -4.62px -4.62px;
+  background-size: 115% 115%;
+  background-image: url(/assets/test-5150x-150jpg.png);
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-test-4150x-150jpg {
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  height: 64px;
+  width: 64px;
+  max-height: 100%;
+  max-width: 60px;
+  background-repeat: no-repeat;
+  background-position: -4.62px -4.62px;
+  background-size: 115% 115%;
+  background-image: url(/assets/test-4150x-150jpg.png);
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-tina-brown {
+  display: flex;
+  padding-right: 224px;
+  padding-left: 224px;
+  align-self: stretch;
+  align-items: center;
+  font-size: 20px;
+  color: rgba(245, 158, 11, 1);
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tina-brown {
+  display: flex;
+  align-items: center;
+  max-width: 970px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-110 {
+  margin-top: 20px;
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-background-overlay-3 {
+  display: flex;
+  justify-content: center;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-bottom: 16px;
+  opacity:1;
+  height: 536px;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 14px;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(/assets/div-elementor-background-overlay-3.png);
+  margin-left: 2px;
+  align-items: center;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ttt-testimonial-bg-1jpg-tdiv-tm-sc-icon-box-tthere-are-many-variations-of-passages-of-available-but-simply-free-text-available-in-the-market-sit-amed-majority-alteration-in-some-form-by-humouor-ttttsymbol-nsectetur-cing-elit-ttsymbol-suspe-ndisse-suscip-sagittis-leo-ttsymbol-entum-estib-dignissim-posuere-ttsymbol-if-you-are-going-to-use-apass {
+  align-self: stretch;
+  padding-bottom: 48px;
+  padding-top: 48px;
+  padding-right: 80px;
+  padding-left: 48px;
+  background-color: rgba(255, 255, 255, 1);
+  filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.06));
+  align-items: flex-start;
+  justify-content: center;
+  column-gap: 56px;
+  row-gap: 56px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-testimonial-bg-1jpg-tdiv-tm-sc-icon-box {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  width: 384px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-testimonial-bg-1jpg-tdiv-tm-sc-icon-box {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-testimonial-bg-1jpg {
+  align-self: stretch;
+  width: 320px;
+  max-height: 100%;
+  max-width: 329px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 146%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2022/08/testimonial-bg1.jpg );
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-tm-sc-icon-box {
+  display: flex;
+  justify-content: center;
+  height: 96px;
+  width: 64px;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-tm-sc-icon-box-1 {
+  display: flex;
+  filter: drop-shadow(-10px 0px 15px rgba(23, 23, 23, 0.15));
+  justify-content: center;
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-left: 6px;
+  padding-bottom: 6px;
+  flex-grow: 1;
+  width: 80px;
+  flex-direction: column;
+  background-color: rgba(23, 23, 23, 1);
+  margin-right: 0px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-wrapper-0 {
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-there-are-many-variations-of-passages-of-available-but-simply-free-text-available-in-the-market-sit-amed-majority-alteration-in-some-form-by-humouor {
+  display: flex;
+  justify-content: center;
+  width: 320px;
+  flex-direction: column;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-there-are-many-variations-of-passages-of-available-but-simply-free-text-available-in-the-market-sit-amed-majority-alteration-in-some-form-by-humouor {
+  display: flex;
+  align-items: center;
+  max-width: 327px;
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ttt-symbol-nsectetur-cing-elit-ttsymbol-suspe-ndisse-suscip-sagittis-leo-ttsymbol-entum-estib-dignissim-posuere-ttsymbol-if-you-are-going-to-use-apass {
+  align-self: stretch;
+  padding-left: 4px;
+  align-items: center;
+  justify-content: center;
+  row-gap: 10px;
+  flex-direction: column;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-nsectetur-cing-elit {
+  display: flex;
+  align-self: stretch;
+  column-gap: 14px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-3 {
+  height: 14px;
+  width: 16px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  line-height: 14px;
+  font-weight: 900;
+  font-size: 14px;
+  font-family: Font Awesome 5 Free;
+  color: rgba(245, 158, 11, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-nsectetur-cing-elit {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-suspe-ndisse-suscip-sagittis-leo {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 14px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-4 {
+  height: 14px;
+  width: 16px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  line-height: 14px;
+  font-weight: 900;
+  font-size: 14px;
+  font-family: Font Awesome 5 Free;
+  color: rgba(245, 158, 11, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-suspe-ndisse-suscip-sagittis-leo {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-entum-estib-dignissim-posuere {
+  display: flex;
+  justify-content: center;
+  padding-right: 6px;
+  align-self: stretch;
+  column-gap: 14px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-5 {
+  height: 14px;
+  width: 16px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  line-height: 14px;
+  font-weight: 900;
+  font-size: 14px;
+  font-family: Font Awesome 5 Free;
+  color: rgba(245, 158, 11, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-entum-estib-dignissim-posuere {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-if-you-are-going-to-use-apass {
+  display: flex;
+  align-self: stretch;
+  column-gap: 14px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-6 {
+  height: 14px;
+  width: 16px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  line-height: 14px;
+  font-weight: 900;
+  font-size: 14px;
+  font-family: Font Awesome 5 Free;
+  color: rgba(245, 158, 11, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-if-you-are-going-to-use-apass {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-section-2 {
+  display: flex;
+  padding-top: 64px;
+  padding-bottom: 80px;
+  height: 256px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  border-bottom-width: 1px;
+  border-color: rgba(229, 229, 229, 1);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-wrapper-0 {
+  display: flex;
+  height: 112px;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-owl-stage-outer {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  flex-direction: column;
+  align-items: center;
+  overflow: clip;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-l6png-l5png-l4png-l3png-l2png {
+  display: flex;
+  justify-content: center;
+  height: 64px;
+  align-self: stretch;
+  column-gap: 64px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-6png {
+  opacity:1;
+  filter: grayscale(100%) contrast(100%);
+  align-self: stretch;
+  width: 176px;
+  max-height: 100%;
+  max-width: 180px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/l1.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-5png {
+  opacity: 1;
+  filter: grayscale(100%) contrast(100%);
+  align-self: stretch;
+  width: 176px;
+  max-height: 100%;
+  max-width: 180px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/l2.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-4png {
+  filter: grayscale(100%) contrast(100%);
+  opacity:1;
+  align-self: stretch;
+  width: 176px;
+  max-height: 100%;
+  max-width: 180px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/l3.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-3png {
+  filter: grayscale(100%) contrast(100%);
+  opacity:1;
+  align-self: stretch;
+  width: 176px;
+  max-height: 100%;
+  max-width: 180px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/l4.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-2png {
+  opacity:1;  
+  filter: grayscale(100%) contrast(100%);
+  align-self: stretch;
+  width: 176px;
+  max-height: 100%;
+  max-width: 180px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/l5.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-6png:hover{
+  filter: none;
+}.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-5png:hover{
+  filter: none;
+}.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-4png:hover{
+  filter: none;
+}.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-3png:hover{
+  filter: none;
+}.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-l-2png:hover{
+  filter: none;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-our-team-members {
+  display: flex;
+  justify-content: center;
+  padding-top: 96px;
+  align-self: stretch;
+  margin-left: 2px;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 18px;
+  color: rgba(245, 158, 11, 1);
+  line-height: 24px;
+  font-weight: 500;
+  letter-spacing: 1.6px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-our-team-members {
+  display: flex;
+  padding-right: 16px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-our-team-members {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 780px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-133 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-meet-the-experts {
+  display: flex;
+  justify-content: center;
+  padding-top: 12px;
+  align-self: stretch;
+  margin-left: 2px;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 48px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 48px;
+  font-weight: 600;
+  letter-spacing: 0.1px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-meet-the-experts {
+  display: flex;
+  padding-right: 16px;
+  align-self: stretch;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-meet-the-experts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 780px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-135 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-team-2jpg-div-team-content-tteam-1jpg-div-team-content-tteam-3jpg-div-team-content {
+  align-self: stretch;
+  padding-top: 56px;
+  padding-right: 96px;
+  padding-left: 96px;
+  margin-left: 2px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 56px;
+  row-gap: 56px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-team-2jpg-div-team-content {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-team-2jpg {
+  display: flex;
+  justify-content: flex-end;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 356px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/team2.jpg);
+  align-items: flex-end;
+  text-align: center;
+  font-family: Font Awesome 5 Free;
+  font-size: 18px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 60px;
+  font-weight: 900;
+  letter-spacing: 0px;
+  transition: 0.3s;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-span-share-icon {
+  display: flex;
+  justify-content: center;
+  height: 64px;
+  width: 64px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: center;
+  border-top-width: 1px;
+  border-color: rgba(244, 244, 245, 1);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  margin-top: 1px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-team-content {
+  display: flex;
+  justify-content: center;
+  padding-top: 24px;
+  padding-right: 160px;
+  padding-left: 36px;
+  padding-bottom: 24px;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 8px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+  border-right-width: 2px;
+  border-left-width: 2px;
+  border-bottom-width: 2px;
+  border-color: rgba(23, 23, 23, 1);
+  border-style: solid;
+  text-align: left;
+  font-family: Barlow;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-robert-jonson {
+  display: flex;
+  align-items: center;
+  max-width: 278px;
+  align-self: stretch;
+  font-size: 26px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 32px;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-web-developer {
+  display: flex;
+  align-items: center;
+  max-width: 278px;
+  font-size: 14px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 14px;
+  font-weight: 500;
+  letter-spacing: 1.6px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-141 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-team-1jpg-div-team-content {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-team-1jpg {
+  display: flex;
+  justify-content: flex-end;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 356px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2022/11/team1.jpg);
+  align-items: flex-end;
+  text-align: center;
+  font-family: Font Awesome 5 Free;
+  font-size: 18px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 60px;
+  font-weight: 900;
+  letter-spacing: 0px;
+  transition: 0.3s;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-span-share-icon-0 {
+  display: flex;
+  justify-content: center;
+  height: 64px;
+  width: 64px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: center;
+  border-top-width: 1px;
+  border-color: rgba(244, 244, 245, 1);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-8 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  margin-top: 1px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-team-content-0 {
+  display: flex;
+  justify-content: center;
+  padding-top: 24px;
+  padding-right: 144px;
+  padding-left: 36px;
+  padding-bottom: 24px;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 8px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+  border-right-width: 2px;
+  border-left-width: 2px;
+  border-bottom-width: 2px;
+  border-color: rgba(23, 23, 23, 1);
+  border-style: solid;
+  text-align: left;
+  font-family: Barlow;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-jessica-brown {
+  display: flex;
+  align-items: center;
+  max-width: 108px;
+  align-self: stretch;
+  font-size: 26px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 32px;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-web-developer-0 {
+  display: flex;
+  align-items: center;
+  max-width: 278px;
+  font-size: 14px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 14px;
+  font-weight: 500;
+  letter-spacing: 1.6px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-147 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-team-3jpg-div-team-content {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-team-3jpg {
+  display: flex;
+  justify-content: flex-end;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 356px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2022/09/team3.jpg);
+  align-items: flex-end;
+  text-align: center;
+  font-family: Font Awesome 5 Free;
+  font-size: 18px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 60px;
+  font-weight: 900;
+  letter-spacing: 0px;
+  transition: 0.3s;
+  overflow: hidden;
+ 
+  
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-team-3jpg:hover {
+  transform: scale(1.1);
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-team-2jpg:hover {
+  transform: scale(1.1);
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-team-1jpg:hover {
+  transform: scale(1.1);
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-span-share-icon-1 {
+  display: flex;
+  justify-content: center;
+  height: 64px;
+  width: 64px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: center;
+  border-top-width: 1px;
+  border-color: rgba(244, 244, 245, 1);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-9 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  margin-top: 1px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-team-content-1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 24px;
+  padding-right: 144px;
+  padding-left: 36px;
+  padding-bottom: 24px;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 8px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+  border-right-width: 2px;
+  border-left-width: 2px;
+  border-bottom-width: 2px;
+  border-color: rgba(23, 23, 23, 1);
+  border-style: solid;
+  text-align: left;
+  font-family: Barlow;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-richerd-william {
+  display: flex;
+  align-items: center;
+  max-width: 278px;
+  align-self: stretch;
+  font-size: 26px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 32px;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-web-developer-1 {
+  display: flex;
+  align-items: center;
+  max-width: 278px;
+  font-size: 14px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 14px;
+  font-weight: 500;
+  letter-spacing: 1.6px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-153 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-section-0 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 112px;
+  align-self: stretch;
+  flex-direction: column;
+  margin-left: 2px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-section-3 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 112px;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-bottom: 56px;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 1.4px;
+  background-color: rgba(245, 245, 245, 1);
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-our-portfolio {
+  display: flex;
+  align-items: center;
+  max-width: 585px;
+  font-family: Barlow;
+  font-size: 18px;
+  color: rgba(245, 158, 11, 1);
+  line-height: 24px;
+  font-weight: 500;
+  letter-spacing: 1.6px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-155 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-our-recent-work-tpresentation-owl-prev-presentation-owl-next {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 56px;
+  column-gap: 384px;
+  row-gap: 24px;
+  align-items: center;
+  color: rgba(23, 23, 23, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-our-recent-work {
+  display: flex;
+  justify-content: flex-end;
+  height: 64px;
+  flex-direction: column;
+  margin-bottom: 4px;
+  align-items: center;
+  font-family: Barlow;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 600;
+  letter-spacing: 0.1px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-our-recent-work {
+  display: flex;
+  align-items: center;
+  max-width: 585px;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-157 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-presentation-owl-prev-presentation-owl-next {
+  display: flex;
+  justify-content: center;
+  column-gap: 16px;
+  align-items: center;
+  font-family: Font Awesome 5 Free;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 900;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-10 {
+  height: 48px;
+  width: 48px;
+  padding-bottom: 16px;
+  padding-top: 16px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  background-color: rgba(255, 255, 255, 1);
+  filter: drop-shadow(0px 0px 25px rgba(5, 5, 5, 0.08));
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-10:hover{
+  background-color: #e9a233;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-11:hover{
+  background-color: #e9a233;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-11 {
+  height: 48px;
+  width: 48px;
+  padding-bottom: 16px;
+  padding-top: 16px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  background-color: rgba(255, 255, 255, 1);
+  filter: drop-shadow(0px 0px 25px rgba(5, 5, 5, 0.08));
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-wrapper-1 {
+  display: flex;
+  align-self: stretch;
+  margin-left: 2px;
+  font-family: Barlow;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 32px;
+  font-weight: 600;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-owl-stage-outer-0 {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  overflow: clip;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-project-bg-3550x-550jpg {
+  display: flex;
+  justify-content: center;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 480px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/news-bg02-672x448.jpg);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-9 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  background-image: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0),
+    rgba(23, 23, 23, 1)
+  );
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-digital-marketing {
+  display: flex;
+  align-items: center;
+  max-width: 400px;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-project-bg-4550x-550jpg {
+  display: flex;
+  justify-content: center;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 480px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/news-bg03-550x550.jpg);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-10 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  background-image: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0),
+    rgba(23, 23, 23, 1)
+  );
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-seo-optimization {
+  display: flex;
+  align-items: center;
+  max-width: 400px;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-project-bg-1550x-550jpg {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  width: 384px;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 480px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 118% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/news-bg01-672x448.jpg);
+  align-items: flex-start;
+}
+.light-effect3{
+  height:auto;
+  width: 384px;
+}
+.light-effect3:hover  {
+  background: rgb(2,0,36);
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 0%, rgba(233,162,51,0.48503151260504207) 79%);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-before-11 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  background-image: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0),
+    rgba(23, 23, 23, 1)
+  );
+  margin-right: 0px;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-app-integration {
+  display: flex;
+  align-items: center;
+  max-width: 400px;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-background-overlay-4 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 112px;
+  padding-right: 6px;
+  padding-left: 80px;
+  align-self: stretch;
+  flex-direction: column;
+  background-repeat: repeat;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/white-pattern-bg.jpg);
+  margin-left: 2px;
+  align-items: flex-end;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-contact-with-us-let-swork-together-tsed-ut-perspiciatis-unde-omnis-natus-error-sit-voluptatem-accusa-ntium-doloremque-laudantium-totam-rem-ttlink-tthave-any-question-free-230009850ttlink-ttsend-email-needhelp-company-com-ttlink-div-icon-text-tsection-beti-images-png {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-grow: 1;
+  align-self: stretch;
+  column-gap: 14px;
+  row-gap: 14px;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-contact-with-us-let-swork-together-tsed-ut-perspiciatis-unde-omnis-natus-error-sit-voluptatem-accusa-ntium-doloremque-laudantium-totam-rem-ttlink-tthave-any-question-free-230009850ttlink-ttsend-email-needhelp-company-com-ttlink-div-icon-text {
+  display: flex;
+  justify-content: center;
+  height: 521px;
+  width: 526px;
+  flex-direction: column;
+  row-gap: 12px;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-contact-with-us {
+  display: flex;
+  align-items: center;
+  max-width: 509px;
+  font-family: Barlow;
+  font-size: 18px;
+  color: rgba(245, 158, 11, 1);
+  line-height: 24px;
+  font-weight: 500;
+  letter-spacing: 1.6px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-169 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-let-swork-together {
+  display: flex;
+  align-items: center;
+  max-width: 526px;
+  align-self: stretch;
+  font-family: Barlow;
+  font-size: 48px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 48px;
+  font-weight: 600;
+  letter-spacing: 0.1px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-171 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-sed-ut-perspiciatis-unde-omnis-natus-error-sit-voluptatem-accusa-ntium-doloremque-laudantium-totam-rem {
+  display: flex;
+  padding-top: 28px;
+  padding-right: 32px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 30px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-sed-ut-perspiciatis-unde-omnis-natus-error-sit-voluptatem-accusa-ntium-doloremque-laudantium-totam-rem {
+  display: flex;
+  align-items: center;
+  max-width: 509px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-link-tthave-any-question-free-230009850 {
+  display: flex;
+  padding-right: 256px;
+  height: 112px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-family: Barlow;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-link-tthave-any-question-free-230009850 {
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  width: 288px;
+  column-gap: 20px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-6 {
+  display: flex;
+  justify-content: center;
+  padding-top: 28px;
+  padding-right: 28px;
+  padding-left: 28px;
+  padding-bottom: 28px;
+  height: 80px;
+  width: 80px;
+  flex-direction: column;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-6:hover{
+  background-color: black;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-i-flaticon-common-call {
+  height: 24px;
+  width: 24px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-have-any-question-free-230009850 {
+  align-items: flex-start;
+  justify-content: center;
+  row-gap: 6px;
+  flex-direction: column;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-have-any-question {
+  display: flex;
+  align-items: center;
+  max-width: 156px;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-176 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-free-230009850 {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  font-size: 20px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-link-ttsend-email-needhelp-company-com {
+  display: flex;
+  padding-top: 14px;
+  padding-right: 208px;
+  align-self: stretch;
+  align-items: flex-end;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-link-ttsend-email-needhelp-company-com {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 20px;
+  row-gap: 20px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-7 {
+  display: flex;
+  justify-content: center;
+  padding-top: 28px;
+  padding-right: 28px;
+  padding-left: 28px;
+  padding-bottom: 28px;
+  height: 80px;
+  width: 80px;
+  flex-direction: column;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+  font-family: Font Awesome 5 Free;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 24px;
+  font-weight: 900;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-7:hover{
+  background-color: black;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-12 {
+  display: flex;
+  align-items: center;
+  height: 24px;
+  width: 24px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-send-email-needhelp-company-com {
+  align-items: flex-start;
+  justify-content: center;
+  row-gap: 6px;
+  flex-direction: column;
+  display: flex;
+  font-family: Barlow;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-send-email {
+  display: flex;
+  align-items: center;
+  max-width: 179px;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-182 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-needhelp-company-com {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  font-size: 20px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-link-div-icon-text {
+  align-self: stretch;
+  padding-top: 14px;
+  padding-right: 128px;
+  align-items: flex-start;
+  justify-content: center;
+  column-gap: 20px;
+  row-gap: 20px;
+  flex-wrap: wrap;
+  display: flex;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-13 {
+  height: 80px;
+  width: 80px;
+  padding-bottom: 28px;
+  padding-top: 28px;
+  padding-right: 28px;
+  padding-left: 28px;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  line-height: 24px;
+  font-weight: 900;
+  font-size: 24px;
+  font-family: Font Awesome 5 Free;
+  color: rgba(255, 255, 255, 1);
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-13:hover{
+background-color: black;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-wrapper-2 {
+  display: flex;
+  align-self: stretch;
+  flex-grow: 1;
+  text-align: left;
+  font-family: Barlow;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-text {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  flex-direction: column;
+  row-gap: 6px;
+  align-items: flex-start;
+  overflow: clip;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-visit-anytime {
+  display: flex;
+  align-items: center;
+  max-width: 246px;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-188 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-broklyn-golden-street-new-york {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  font-size: 20px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-section-beti-images-png {
+  display: flex;
+  position: relative;
+  padding-right: 288px;
+  padding-bottom: 128px;
+  align-self: stretch;
+  width: 739px;
+  align-items: flex-start;
+  font-family: Barlow;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-section-4 {
+  display: flex;
+  position: relative;
+  filter: drop-shadow(-10px 0px 15px rgba(0, 0, 0, 0.07));
+  justify-content: center;
+  padding-top: 16px;
+  padding-bottom: 14px;
+  align-self: stretch;
+  width: 384px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-widget-container-0 {
+  display: flex;
+  padding-top: 28px;
+  position: relative;
+  padding-right: 28px;
+  padding-left: 28px;
+  padding-bottom: 48px;
+  flex-grow: 1;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 16px;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size:200% 200%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/beti-images.png);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-contact-us {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  max-width: 343px;
+  font-size: 48px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 58px;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-input {
+  align-self: stretch;
+  padding-top: 4px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: left;
+  line-height: normal;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(113, 113, 122, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-input {
+  display: flex;
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: rgba(245, 245, 245, 1);
+  align-items: center;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-width: 1px;
+  border-color: rgba(245, 243, 255, 0.5);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-name {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-input-0 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  text-align: left;
+  font-size: 14px;
+  color: rgba(113, 113, 122, 1);
+  line-height: normal;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-input-0 {
+  display: flex;
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: rgba(245, 245, 245, 1);
+  align-items: center;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-width: 1px;
+  border-color: rgba(245, 243, 255, 0.5);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-email {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-textarea {
+  display: flex;
+  justify-content: center;
+  height: 144px;
+  align-self: stretch;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-textarea {
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: rgba(245, 245, 245, 1);
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-width: 1px;
+  border-color: rgba(245, 243, 255, 0.5);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-input-1 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  text-align: center;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 20px;
+  font-weight: 600;
+  letter-spacing: 1.6px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-send-amessage {
+  align-self: stretch;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 48px;
+  padding-left: 48px;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-send-amessage:hover{
+  background-color: black;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-198 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-beti-images-png {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 525px;
+  width: 384px;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(/assets/beti-images-png.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-from-the-blog {
+  display: flex;
+  justify-content: center;
+  padding-top: 112px;
+  align-self: stretch;
+  margin-left: 2px;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 18px;
+  color: rgba(245, 158, 11, 1);
+  line-height: 24px;
+  font-weight: 500;
+  letter-spacing: 1.6px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-from-the-blog {
+  display: flex;
+  padding-right: 16px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-from-the-blog {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 780px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-200 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-news-articles {
+  display: flex;
+  justify-content: center;
+  padding-top: 12px;
+  align-self: stretch;
+  margin-left: 2px;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 48px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 48px;
+  font-weight: 600;
+  letter-spacing: 0.1px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-news-articles {
+  display: flex;
+  padding-right: 16px;
+  align-self: stretch;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-news-articles {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 780px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-202 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-news-bg-01672x-448jpg-tdiv-entry-content-tnews-bg-02672x-448jpg-tdiv-entry-content-tnews-bg-03672x-448jpg-tdiv-entry-content {
+  align-self: stretch;
+  padding-top: 56px;
+  padding-right: 96px;
+  padding-left: 80px;
+  margin-left: 2px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 32px;
+  row-gap: 32px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-news-bg-01672x-448jpg-tdiv-entry-content {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  width: 384px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-news-bg-01672x-448jpg {
+  display: flex;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 192px;
+  align-self: stretch;
+  max-height: 100%;
+  max-width: 378px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/news-bg01-672x448.jpg);
+  align-items: flex-start;
+  text-align: center;
+  font-family: Barlow;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 19px;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-post-single-meta {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  height: 64px;
+  width: 64px;
+  flex-direction: column;
+  row-gap: 0.09px;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-component-1 {
+  padding-right: 8px;
+  padding-left: 8px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-204 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-aug {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-206 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-entry-content {
+  display: flex;
+  height: 288px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-entry-content {
+  display: flex;
+  filter: drop-shadow(0px 10px 30px rgba(0, 0, 0, 0.05));
+  justify-content: flex-end;
+  padding-bottom: 10px;
+  height: 320px;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 6px;
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: -32px;
+  align-items: center;
+  border-top-width: 4px;
+  border-color: rgba(245, 158, 11, 1);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-ae-03b-55289af-8b-51be-6df-0aabd-04ffc-3 {
+  display: flex;
+  padding-right: 128px;
+  padding-left: 128px;
+  height: 56px;
+  align-self: stretch;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ae-03b-55289af-8b-51be-6df-0aabd-04ffc-3 {
+  height: 56px;
+  width: 56px;
+  max-height: 100%;
+  max-width: 60px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(/assets/ae-03b-55289af-8b-51be-6df-0aabd-04ffc-0.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ttt-symbol-by-ismail-tsymbol-link-1comment {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-size: 14px;
+  color: rgba(245, 158, 11, 1);
+  font-weight: 400;
+  letter-spacing: 1.6px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-by-ismail-tsymbol-link-1comment {
+  display: flex;
+  justify-content: center;
+  column-gap: 16px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-symbol-by-ismail {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 10px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-14 {
+  display: flex;
+  align-items: center;
+  height: 14px;
+  width: 14px;
+  font-family: Font Awesome 5 Free;
+  line-height: 14px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-208 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-by-ismail {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  line-height: 25px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-210 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-symbol-link-1comment {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 10px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-15 {
+  display: flex;
+  align-items: center;
+  font-family: Font Awesome 5 Free;
+  line-height: 14px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-212 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-1comment {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  line-height: 25px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-214 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-top-crypto-exchange-influencers-in-china {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 288px;
+  font-family: Barlow;
+  font-size: 26px;
+  color: rgba(23, 23, 23, 1);
+  line-height: 32px;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-216 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-duis-aute-irure-dolor-lipsum-simply-free-text-the-local-markets {
+  display: flex;
+  justify-content: center;
+  padding-top: 14px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 26px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-duis-aute-irure-dolor-lipsum-simply-free-text-the-local-markets {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 298px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-read-more-symbol {
+  align-self: stretch;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 24px;
+  padding-left: 24px;
+  margin-top: 20px;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  background-color: rgba(245, 245, 245, 1);
+  align-items: center;
+  justify-content: center;
+  column-gap: 208px;
+  display: flex;
+  text-align: left;
+  line-height: 25px;
+  letter-spacing: 1.6px;
+  font-size: 14px;
+  color: rgba(115, 115, 115, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-read-more-2 {
+  display: flex;
+  align-items: center;
+  max-width: 268px;
+  font-family: Barlow;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-222 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-16 {
+  display: flex;
+  align-items: center;
+  font-family: Font Awesome 5 Free;
+  font-weight: 900;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-224 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-news-bg-02672x-448jpg-tdiv-entry-content {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  width: 384px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-news-bg-02672x-448jpg {
+  display: flex;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 192px;
+  align-self: stretch;
+  max-height: 100%;
+  max-width: 378px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/news-bg02-672x448.jpg);
+  align-items: flex-start;
+  text-align: center;
+  font-family: Barlow;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 19px;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-post-single-meta-0 {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  height: 64px;
+  width: 64px;
+  flex-direction: column;
+  row-gap: 0.09px;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-component-2 {
+  padding-right: 8px;
+  padding-left: 8px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-226 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-aug-0 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-228 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-entry-content-0 {
+  display: flex;
+  height: 288px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-entry-content-0 {
+  display: flex;
+  filter: drop-shadow(0px 10px 30px rgba(0, 0, 0, 0.05));
+  justify-content: flex-end;
+  padding-bottom: 10px;
+  height: 320px;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 6px;
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: -32px;
+  align-items: center;
+  border-top-width: 4px;
+  border-color: rgba(245, 158, 11, 1);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-ae-03b-55289af-8b-51be-6df-0aabd-04ffc {
+  display: flex;
+  padding-right: 128px;
+  padding-left: 128px;
+  height: 56px;
+  align-self: stretch;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ae-03b-55289af-8b-51be-6df-0aabd-04ffc {
+  height: 56px;
+  width: 56px;
+  max-height: 100%;
+  max-width: 60px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(/assets/ae-03b-55289af-8b-51be-6df-0aabd-04ffc-0.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tttt-symbol-by-ismail-tsymbol-link-1comment {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-right: 64px;
+  padding-left: 64px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-size: 14px;
+  color: rgba(245, 158, 11, 1);
+  font-weight: 400;
+  letter-spacing: 1.6px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-by-ismail-tsymbol-link-1comment-0 {
+  align-items: center;
+  justify-content: center;
+  column-gap: 16px;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-symbol-by-ismail-0 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 10px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-17 {
+  display: flex;
+  align-items: center;
+  height: 14px;
+  width: 14px;
+  font-family: Font Awesome 5 Free;
+  line-height: 14px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-230 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-by-ismail-0 {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  line-height: 25px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-232 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-symbol-link-1comment-0 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 10px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-18 {
+  display: flex;
+  align-items: center;
+  font-family: Font Awesome 5 Free;
+  line-height: 14px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-234 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-1comment-0 {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  line-height: 25px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-236 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-necessity-may-give-us-best-virtual-court {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  line-height: 32px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  font-size: 26px;
+  font-family: Barlow;
+  color: rgba(23, 23, 23, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-238 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-duis-aute-irure-dolor-lipsum-simply-free-text-the-local-markets-0 {
+  display: flex;
+  justify-content: center;
+  padding-top: 14px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 26px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-duis-aute-irure-dolor-lipsum-simply-free-text-the-local-markets-0 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 298px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-read-more-symbol-0 {
+  align-self: stretch;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 24px;
+  padding-left: 24px;
+  margin-top: 20px;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  background-color: rgba(245, 245, 245, 1);
+  align-items: center;
+  justify-content: center;
+  column-gap: 208px;
+  display: flex;
+  text-align: left;
+  line-height: 25px;
+  letter-spacing: 1.6px;
+  font-size: 14px;
+  color: rgba(115, 115, 115, 1);
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-read-more-symbol:hover{
+  background-color: #e9a233;
+  span{
+    color: #fff;
+  }
+}.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-read-more-symbol-0:hover{
+  background-color: #e9a233;
+  span{
+    color: #fff;
+  }
+}.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-read-more-symbol-1:hover{
+  background-color: #e9a233;
+  span{
+    color: #fff;
+  }
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-read-more-3 {
+  display: flex;
+  align-items: center;
+  max-width: 268px;
+  font-family: Barlow;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-244 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-19 {
+  display: flex;
+  align-items: center;
+  font-family: Font Awesome 5 Free;
+  font-weight: 900;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-246 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-news-bg-03672x-448jpg-tdiv-entry-content {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  width: 384px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-news-bg-03672x-448jpg {
+  display: flex;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 192px;
+  align-self: stretch;
+  max-height: 100%;
+  max-width: 378px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(https://wp2023.kodesolution.com/digima/wp-content/uploads/2023/02/news-bg03-550x550.jpg);
+  align-items: flex-start;
+  text-align: center;
+  font-family: Barlow;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 19px;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-post-single-meta-1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  height: 64px;
+  width: 64px;
+  flex-direction: column;
+  row-gap: 0.09px;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-component-3 {
+  padding-right: 6px;
+  padding-left: 6px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-248 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-aug-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-250 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-entry-content-1 {
+  display: flex;
+  height: 288px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-entry-content-1 {
+  display: flex;
+  filter: drop-shadow(0px 10px 30px rgba(0, 0, 0, 0.05));
+  justify-content: flex-end;
+  padding-bottom: 10px;
+  height: 320px;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 6px;
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: -32px;
+  align-items: center;
+  border-top-width: 4px;
+  border-color: rgba(245, 158, 11, 1);
+  border-style: solid;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-ae-03b-55289af-8b-51be-6df-0aabd-04ffc-0 {
+  display: flex;
+  padding-right: 128px;
+  padding-left: 128px;
+  height: 56px;
+  align-self: stretch;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ae-03b-55289af-8b-51be-6df-0aabd-04ffc-0 {
+  height: 56px;
+  width: 56px;
+  max-height: 100%;
+  max-width: 60px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(/assets/ae-03b-55289af-8b-51be-6df-0aabd-04ffc-0.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tttt-symbol-by-ismail-tsymbol-link-1comment-0 {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-right: 64px;
+  padding-left: 64px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-size: 14px;
+  color: rgba(245, 158, 11, 1);
+  font-weight: 400;
+  letter-spacing: 1.6px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-symbol-by-ismail-tsymbol-link-1comment-1 {
+  align-items: center;
+  justify-content: center;
+  column-gap: 16px;
+  display: flex;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-symbol-by-ismail-1 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 10px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-20 {
+  display: flex;
+  align-items: center;
+  height: 14px;
+  width: 14px;
+  font-family: Font Awesome 5 Free;
+  line-height: 14px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-252 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-by-ismail-1 {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  line-height: 25px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-254 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-symbol-link-1comment-1 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 10px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-21 {
+  display: flex;
+  align-items: center;
+  font-family: Font Awesome 5 Free;
+  line-height: 14px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-256 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-1comment-1 {
+  display: flex;
+  align-items: center;
+  font-family: Barlow;
+  line-height: 25px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-258 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ways-to-achieve-your-business-goal {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  line-height: 32px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  font-size: 26px;
+  font-family: Barlow;
+  color: rgba(23, 23, 23, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-260 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-duis-aute-irure-dolor-lipsum-simply-free-text-the-local-markets-1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 14px;
+  align-self: stretch;
+  align-items: flex-end;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 26px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-duis-aute-irure-dolor-lipsum-simply-free-text-the-local-markets-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 298px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-read-more-symbol-1 {
+  align-self: stretch;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 24px;
+  padding-left: 24px;
+  margin-top: 20px;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  background-color: rgba(245, 245, 245, 1);
+  align-items: center;
+  justify-content: center;
+  column-gap: 208px;
+  display: flex;
+  text-align: left;
+  line-height: 25px;
+  letter-spacing: 1.6px;
+  font-size: 14px;
+  color: rgba(115, 115, 115, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-read-more-4 {
+  display: flex;
+  align-items: center;
+  max-width: 268px;
+  font-family: Barlow;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-266 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-22 {
+  display: flex;
+  align-items: center;
+  font-family: Font Awesome 5 Free;
+  font-weight: 900;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-268 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-footer {
+  align-self: stretch;
+  padding-top: 80px;
+  padding-right: 4px;
+  margin-left: 2px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  letter-spacing: 0px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-footer {
+  display: flex;
+  position: relative;
+  padding-right: 320px;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: rgba(23, 23, 23, 1);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-section-5 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: column;
+  background-color: rgba(23, 23, 23, 1);
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-elementor-background-overlay-5 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 288px;
+  padding-right: 128px;
+  padding-left: 96px;
+  padding-bottom: 80px;
+  flex-grow: 1;
+  align-self: stretch;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 357px -45.72px;
+  background-size: 30% 116%;
+  background-image: url(/assets/div-elementor-background-overlay-5.png);
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-about-welcome-to-our-web-design-agency-lorem-ipsum-simply-free-text-dolor-as-sited-amet-cons-cing-elit-ttexplore-tabout-company-meet-the-team-news-media-contact-tcontact-66road-broklyn-street-600new-york-usa-ttitem-link-item-link-item-link-link {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-self: stretch;
+  column-gap: 96px;
+  row-gap: 64px;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-about-welcome-to-our-web-design-agency-lorem-ipsum-simply-free-text-dolor-as-sited-amet-cons-cing-elit {
+  display: flex;
+  justify-content: center;
+  width: 240px;
+  flex-direction: column;
+  row-gap: 20px;
+  align-items: flex-start;
+  font-family: Barlow;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-about {
+  display: flex;
+  align-items: center;
+  max-width: 258px;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 32px;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-270 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-welcome-to-our-web-design-agency-lorem-ipsum-simply-free-text-dolor-as-sited-amet-cons-cing-elit {
+  display: flex;
+  align-items: center;
+  max-width: 258px;
+  align-self: stretch;
+  font-size: 16px;
+  color: rgba(212, 212, 212, 1);
+  line-height: 30px;
+  font-weight: 400;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-explore-tabout-company-meet-the-team-news-media-contact {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  font-family: Barlow;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-explore-tabout-company-meet-the-team-news-media-contact {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: column;
+  row-gap: 0.5px;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-explore {
+  display: flex;
+  align-items: center;
+  max-width: 131px;
+  align-self: stretch;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 32px;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-276 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-about-company {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-size: 16px;
+  color: rgba(212, 212, 212, 1);
+  line-height: 40px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-about-company {
+  display: flex;
+  align-items: center;
+  max-width: 131px;
+  align-self: stretch;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-meet-the-team {
+  display: flex;
+  align-items: center;
+  max-width: 131px;
+  font-size: 16px;
+  color: rgba(212, 212, 212, 1);
+  line-height: 40px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-news-media {
+  display: flex;
+  align-items: center;
+  max-width: 131px;
+  font-size: 16px;
+  color: rgba(212, 212, 212, 1);
+  line-height: 40px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-contact {
+  display: flex;
+  align-items: center;
+  max-width: 131px;
+  font-size: 16px;
+  color: rgba(212, 212, 212, 1);
+  line-height: 40px;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-contact-66road-broklyn-street-600new-york-usa-ttitem-link-item-link-item-link-link {
+  display: flex;
+  justify-content: center;
+  width: 224px;
+  flex-direction: column;
+  row-gap: 20px;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-contact-0 {
+  display: flex;
+  align-items: center;
+  max-width: 250px;
+  font-family: Barlow;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 32px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-286 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-road-broklyn-street-600new-york-usa {
+  display: flex;
+  align-items: center;
+  max-width: 250px;
+  align-self: stretch;
+  font-family: Barlow;
+  font-size: 16px;
+  color: rgba(212, 212, 212, 1);
+  line-height: 30px;
+  font-weight: 500;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-item-link-item-link-item-link-link {
+  align-self: stretch;
+  padding-top: 6px;
+  padding-right: 40px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+  display: flex;
+  line-height: 18px;
+  font-weight: 400;
+  font-size: 18px;
+  font-family: Font Awesome 5 Brands;
+  color: rgba(255, 255, 255, 1);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-item-link {
+  display: flex;
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  justify-content: center;
+  padding-top: 12px;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-bottom: 12px;
+  height: 40px;
+  width: 40px;
+  flex-direction: column;
+  background-color: rgba(23, 23, 23, 1);
+  align-items: center;
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  text-align: left;
+}
+.effect varrius{
+  display: flex;
+  width: 200px;
+}
+.buttons{
+  display: flex;
+
+}
+.effect a {
+text-decoration: none !important;
+width: 60px;
+height: 60px;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 50%;
+margin-right: 20px;
+font-size: 25px;
+overflow: hidden;
+position: relative;
+color: #fff;
+border: 2px solid #e9a233;
+}
+.effect a i {
+position: relative;
+z-index: 3;
+}
+.effect a:last-child {
+margin-right: 0px;
+}
+.effect a:before {
+content: "";
+display: inline-block;
+height: 100%;
+vertical-align: middle;
+}
+.effect a i {
+display: inline-block;
+vertical-align: middle;
+}
+
+.effect.varrius a {
+transition: all 0.2s linear 0s;
+}
+.effect.varrius a:after {
+content: "";
+display: block;
+width: 90%;
+height: 90%;
+top: -110%;
+left: 0;
+right: 0;
+margin: auto;
+position: absolute;
+background-color: #e9a233;
+border-radius: 50%;
+}
+.effect.varrius a:hover {
+color: #fff;
+}
+.effect.varrius a:hover:after {
+top: 5%;
+transition: all 0.2s linear 0s;
+}
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-23 {
+  display: flex;
+  align-items: center;
+  height: 20px;
+  width: 20px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-24 {
+  height: 40px;
+  width: 40px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  padding-right: 12px;
+  padding-left: 12px;
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  background-color: rgba(23, 23, 23, 1);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-25 {
+  height: 40px;
+  width: 40px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  padding-right: 12px;
+  padding-left: 12px;
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  background-color: rgba(23, 23, 23, 1);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-link-12 {
+  display: flex;
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  justify-content: center;
+  padding-top: 12px;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-bottom: 12px;
+  height: 40px;
+  width: 40px;
+  flex-direction: column;
+  background-color: rgba(23, 23, 23, 1);
+  align-items: center;
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-symbol-26 {
+  display: flex;
+  align-items: center;
+  height: 20px;
+  width: 20px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-section-ttnewsletter-subsrcibe-for-our-upcoming-latest-articles-and-news-resources-tinput-input {
+  display: flex;
+  position: absolute;
+  top: 64px;
+  right: 80px;
+  left: 80px;
+  justify-content: center;
+  height: 384px;
+  flex-direction: column;
+  row-gap: 96px;
+  align-items: flex-end;
+  font-family: Barlow;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-section-6 {
+  display: flex;
+  padding-top: 16px;
+  padding-right: 128px;
+  padding-left: 16px;
+  padding-bottom: 64px;
+  height: 128px;
+  align-self: stretch;
+  column-gap: 240px;
+  align-items: center;
+  border-bottom-width: 1px;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-wrapper-3 {
+  display: flex;
+  width: 176px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-text-0 {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: flex-end;
+  padding-top: 6px;
+  flex-direction: column;
+  row-gap: 8px;
+  align-items: flex-start;
+  overflow: clip;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-send-email-0 {
+  display: flex;
+  align-items: center;
+  max-width: 179px;
+  font-size: 16px;
+  color: rgba(212, 212, 212, 1);
+  line-height: 1;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-needhelp-company-com-0 {
+  display: flex;
+  align-items: center;
+  max-width: 221px;
+  align-self: stretch;
+  margin-right: 0px;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-logo-wide-white-png {
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 96px;
+  height: 44px;
+  width: 240px;
+  align-items: center;
+  img{
+    height: 44px;
+    width: 150px;
+  }
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-logo-wide-white-png-0 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  width: 144px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-logo-wide-white-png-0 {
+  flex-grow: 1;
+  align-self: stretch;
+  max-height: 100%;
+  max-width: 570px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+  background-image: url(/assets/logo-wide-white-png-0.png);
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-wrapper-4 {
+  display: flex;
+  width: 160px;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-div-icon-text-1 {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: flex-end;
+  padding-top: 6px;
+  flex-direction: column;
+  row-gap: 8px;
+  align-items: flex-start;
+  overflow: clip;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-call-now {
+  display: flex;
+  align-items: center;
+  max-width: 159px;
+  font-size: 16px;
+  color: rgba(212, 212, 212, 1);
+  line-height: 1;
+  font-weight: 500;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-component-4 {
+  display: flex;
+  align-items: center;
+  max-width: 190px;
+  align-self: stretch;
+  margin-right: 0px;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-newsletter-subsrcibe-for-our-upcoming-latest-articles-and-news-resources-tinput-input {
+  display: flex;
+  padding-right: 24px;
+  align-items: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-newsletter-subsrcibe-for-our-upcoming-latest-articles-and-news-resources-tinput-input {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: column;
+  row-gap: 20px;
+  align-items: flex-start;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-newsletter {
+  display: flex;
+  align-items: center;
+  max-width: 293px;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 1);
+  line-height: 32px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-text-307 {
+  text-transform: uppercase;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-subsrcibe-for-our-upcoming-latest-articles-and-news-resources {
+  display: flex;
+  align-items: center;
+  max-width: 293px;
+  width: 288px;
+  font-size: 16px;
+  color: rgba(212, 212, 212, 1);
+  line-height: 30px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-input-input {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-input-2 {
+  display: flex;
+  padding-top: 24px;
+  padding-right: 32px;
+  padding-left: 32px;
+  padding-bottom: 24px;
+  max-width: 293px;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: rgba(41, 37, 36, 1);
+  align-items: center;
+  color: rgba(115, 115, 115, 1);
+  line-height: normal;
+  text-align: left;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-email-address {
+  display: flex;
+  align-items: center;
+  max-width: 164px;
+  flex-grow: 1;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-input-3 {
+  display: flex;
+  padding-top: 0px;
+  padding-right: 6px;
+  padding-left: 6px;
+  padding-bottom: 0.39px;
+  height: 64px;
+  width: 64px;
+  background-color: rgba(245, 158, 11, 1);
+  align-items: center;
+  border-width: 8px;
+  border-color: rgba(41, 37, 36, 1);
+  border-style: solid;
+  color: rgba(41, 37, 36, 1);
+  line-height: 50px;
+  text-align: center;
+}
+
+.wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-go {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}
+@media (min-width: 1366px) {
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-section-0 {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: hidden;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-link-link {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-our-services-services-we-offer-tthere-are-many-variations-of-passages-of-available-but-majority-alteration-in-some-form-by-humou-or-randomised-words {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-inner-box-div-inner-box-div-inner-box-div-inner-box {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-tm-sc-icon-box-ttproject-bg-6jpg-tttget-to-know-us-after-tleading-the-best-digital-tagency-in-town-tthe-professional-approach-to-development-web-designing-in-apowerful-way-of-just-not-an-only-professions-however-in-apassion-for-our-company-we-have-to-atendency-to-believe-the-idea-that-smart-looking-of-any-website-is-the-first-impression-ttbg-website-designing-77div-progress-holder-ttttttsymbol-maecenas-id-amet-libero-rutrum-ttsymbol-nolam-vel-suffered-sit-form-ttsymbol-proin-mattis-noted-purus-tlink-div-elementor-widget-wrap {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ttttt-symbol-maecenas-id-amet-libero-rutrum-ttsymbol-nolam-vel-suffered-sit-form-ttsymbol-proin-mattis-noted-purus-tlink-div-elementor-widget-wrap {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-div-inner-box-div-inner-box-div-inner-box {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-ttt-testimonial-bg-1jpg-tdiv-tm-sc-icon-box-tthere-are-many-variations-of-passages-of-available-but-simply-free-text-available-in-the-market-sit-amed-majority-alteration-in-some-form-by-humouor-ttttsymbol-nsectetur-cing-elit-ttsymbol-suspe-ndisse-suscip-sagittis-leo-ttsymbol-entum-estib-dignissim-posuere-ttsymbol-if-you-are-going-to-use-apass {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-team-2jpg-div-team-content-tteam-1jpg-div-team-content-tteam-3jpg-div-team-content {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-our-recent-work-tpresentation-owl-prev-presentation-owl-next {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-contact-with-us-let-swork-together-tsed-ut-perspiciatis-unde-omnis-natus-error-sit-voluptatem-accusa-ntium-doloremque-laudantium-totam-rem-ttlink-tthave-any-question-free-230009850ttlink-ttsend-email-needhelp-company-com-ttlink-div-icon-text-tsection-beti-images-png {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-link-ttsend-email-needhelp-company-com {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-t-link-div-icon-text {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-news-bg-01672x-448jpg-tdiv-entry-content-tnews-bg-02672x-448jpg-tdiv-entry-content-tnews-bg-03672x-448jpg-tdiv-entry-content {
+    flex-wrap: nowrap;
+  }
+  .wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-tt-about-welcome-to-our-web-design-agency-lorem-ipsum-simply-free-text-dolor-as-sited-amet-cons-cing-elit-ttexplore-tabout-company-meet-the-team-news-media-contact-tcontact-66road-broklyn-street-600new-york-usa-ttitem-link-item-link-item-link-link {
+    flex-wrap: nowrap;
+  }
+}

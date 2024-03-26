@@ -1,0 +1,13 @@
+{
+  "name": "wp-2023kodesolution-com-by-html-to-design-free-version-25032024163005gmt-4-example",
+  "version": "0.1.0",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
